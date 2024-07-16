@@ -2,7 +2,7 @@
 title: "Palmers Penguins"
 author: "Jen"
 date: "2023-09-25"
-output: html_document
+output: github_document
 ---
 
 # Palmers Penguins: Body Mass vs. Flipper Length
@@ -11,8 +11,8 @@ output: html_document
 install.packages("vitae")
 library(ggplot2)
 library(palmerpenguins)
-data(penguins_lter)
-head(penguins_lter, 8)
+data(penguins)
+head(penguins, 8)
 ```
 
 ## Penguin Visualization for Body Mass vs. Flipper Length
@@ -23,3 +23,5 @@ ggplot(data= penguins)+
   geom_smooth(aes(flipper_length_mm, body_mass_g))+
   labs(title= "Palmer Penguins: Body Mass vs. Flipper Length")
 ```
+
+[PalmersPenguins_Rplot.pdf](https://github.com/datash0ck/R-Projects/files/14272146/PalmersPenguins_Rplot.pdf)
