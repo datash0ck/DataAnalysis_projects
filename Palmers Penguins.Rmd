@@ -24,11 +24,12 @@ ggplot(data= penguins)+
   labs(title= "Palmer Penguins: Body Mass vs. Flipper Length")
 ```
 
-#Create a separate plot facet_wrap
+# Create a separate plot facet_wrap
 ggplot(data= penguins)+
   geom_point(mapping=aes(x=flipper_length_mm, y=body_mass_g, color=species))+
   facet_wrap(~species)
-#Create 2 plots vertically from first indicated variable facet_grid
+
+# Create 2 plots vertically from first indicated variable facet_grid
 ggplot(data= penguins)+
   geom_point(mapping=aes(x=flipper_length_mm, y=body_mass_g, color=species))+  
   facet_grid(sex~species)
