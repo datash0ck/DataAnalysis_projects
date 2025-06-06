@@ -1,0 +1,14 @@
+# CO2 Emissions Analysis Project
+
+Analyzes global CO2 emissions (2008-2011) using R and Tableau. Built a linear regression model in R to predict CO2 emissions, then visualized results in Tableau with a focus on oil producers.
+
+## Files
+- `CO2_Emissions_Project.R`: R script for data cleaning and linear regression.
+- `Predicted_CO2_Model.xlsx`: Dataset with R predictions for Tableau.
+
+## Tableau Dashboard
+View the interactive dashboard: [CO2 Emissions Dashboard]
+(https://public.tableau.com/views/PredictedCO2RModel/CO2EmissionsDashboard2008-2011?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Summary
+Developed a Tableau dashboard with R-based predictions to analyze CO2 emissions, highlighting oil-producing countries for the energy sector.
