@@ -7,8 +7,7 @@ Analyzes global CO2 emissions (2008-2011) using R and Tableau. Built a linear re
 - `Predicted_CO2_Model.xlsx`: Dataset with R predictions for Tableau.
 
 ## Tableau Dashboard
-View the interactive dashboard: [CO2 Emissions Dashboard]
-(https://public.tableau.com/views/PredictedCO2RModel/CO2EmissionsDashboard2008-2011?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+View the interactive dashboard: [CO2 Emissions Dashboard](https://public.tableau.com/views/PredictedCO2RModel/CO2EmissionsDashboard2008-2011?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Summary
 Developed a Tableau dashboard with R-based predictions to analyze CO2 emissions, highlighting oil-producing countries for the energy sector.
