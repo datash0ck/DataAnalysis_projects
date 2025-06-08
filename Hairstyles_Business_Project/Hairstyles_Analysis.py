@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Thu Dec 29 13:12:52 2022
 
-@author: Shock
+@author: Jen VanGalder
 """
 """ Hairstyles Business Project """
 
