@@ -1,6 +1,6 @@
 ---
 title: "Palmers Penguins"
-author: "Jen"
+author: "Jen VanGalder"
 date: "2023-09-25"
 output: html_document
 ---
