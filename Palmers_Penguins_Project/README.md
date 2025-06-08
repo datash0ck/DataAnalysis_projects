@@ -1,7 +1,7 @@
 # Palmers Penguins Project
 
 ## Objective
-Analyzes the Palmer Penguins dataset (2023) using R to explore the relationship between body mass and flipper length, with visualizations to highlight species and sex differences.
+The R script effectively visualizes the Palmer Penguins dataset, revealing a strong positive correlation between flipper length and body mass, with Gentoo penguins standing out as the largest due to their higher values, as shown in the scatter plot with a smooth trend line. The faceted plots by species and sex provide additional clarity, highlighting size differences.
 
 ## R Analysis
 - **Data**: Used the `penguins_lter` dataset from the `palmerpenguins` package, containing species, flipper length, and body mass data.
